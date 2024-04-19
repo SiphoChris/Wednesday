@@ -1,0 +1,27 @@
+.Avatar {
+    width: 40px;
+    border-radius: 50%;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(54, 65, 118);
+    font-size: 35px;
+}
+body {
+    background-color: antiquewhite;
+}
+main{
+    margin: 60px 60px 60px 60px;
+}
+table{
+    width: 86%;
+    margin-left: 100px;
+    text-align: center;
+}
+th{
+    background-color: blueviolet;
+}
+td{
+    background-color: aquamarine;
+}
